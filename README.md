@@ -8,7 +8,9 @@
 
 
 
- ![Snake Game 1](https://i.ytimg.com/vi/R9Etbdktj5U/maxresdefault.jpg)
+ <p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 
