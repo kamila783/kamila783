@@ -41,7 +41,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Kami_la_10_05-blue)](https://t.me/Kami_la_10_05)
 [![Instagram](https://img.shields.io/badge/Instagram-%40kami.la.783-red)](https://www.instagram.com/kami.la.783?igsh=NTc4MTIwNjQ2YQ==)
-[![TenChat](https://img.shields.io/badge/TenChat-%40Kamila_web-yellow)](https://tenchat.ru/Kamila_web?utm_source=4463ba1a-b371-4e0f-b677-1dea4856b45d)
 
 ### ⚙️ GitHub статистика:
 
